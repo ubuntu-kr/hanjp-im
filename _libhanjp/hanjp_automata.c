@@ -1,0 +1,1 @@
+#include "hanjp_automata.h"
